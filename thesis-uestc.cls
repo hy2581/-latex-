@@ -626,7 +626,7 @@
     \textnormal{\MakeUppercase{\englishbooktitle}} \\[48bp]
   \ifbachelor{
     %\vspace{0.4cm}
-    \includegraphics[width=180bp]{logo.pdf} \\[40bp]
+    \includegraphics[width=180bp]{logo.pdf} \\[20bp]
   }{\includegraphics[width=180bp]{logo.pdf} \\[40bp]}
   \begin{tabular}{lp{4.2in}}
     \bfseries\fontsize{18pt}{18pt}\selectfont 论文题目 & \multirow[t]{2}{4.2in}{
